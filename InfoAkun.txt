@@ -1,0 +1,15 @@
+admin 
+username : admin
+pw : admin
+
+walimurid
+username : 0022305083
+pw : 1234
+
+walikelas
+username : 0987654321
+pw : 1234
+
+guru 
+username : 1234567890
+pw : 1234
