@@ -186,7 +186,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`iduser`, `nama`, `username`, `password`, `level`, `__active`, `__create`, `__update`) VALUES
-(1, 'admin', 'admin', '0192023a7bbd73250516f069df18b500', 'admin', 1, '2019-10-09 14:10:18', '0000-00-00 00:00:00'),
+(1, 'admin', 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', 1, '2019-10-09 14:10:18', '0000-00-00 00:00:00'),
 (12, 'Aldiansah', '0022305083', '81dc9bdb52d04dc20036dbd8313ed055', 'walimurid', 1, '2019-10-19 03:11:18', NULL),
 (13, 'Cicih Sri Rahayu', '1234567890', '81dc9bdb52d04dc20036dbd8313ed055', 'guru', 1, '2019-10-19 03:14:17', NULL),
 (14, 'Nestri sri rahayu', '9999999999', '81dc9bdb52d04dc20036dbd8313ed055', 'guru', 1, '2019-10-19 03:17:50', NULL),
